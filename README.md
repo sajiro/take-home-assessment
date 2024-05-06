@@ -22,8 +22,8 @@ In the login screen, i prepopulate the login and password with valid user data t
 ## Backend used
 Appwrite - https://appwrite.io/
 
-## Hosting
-Hostinger
+## Deployment
+Vercel
 
 ## Known Issue 
 There seems to be some issue on the vercel server when i deploy it. Some conflict on appwrite server maybe and sometimes the session was not save/unsaved. 

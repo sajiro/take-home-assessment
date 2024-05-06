@@ -5,7 +5,7 @@ To start the app: after going into your projects directory run the following com
 - npm install
 - npm run dev
 
-In the login screen, i entered i prepopulate the login and password with valid user data to be able to access the database and save data and images for testing.
+In the login screen, i prepopulate the login and password with valid user data to be able to access the database and save data and images for testing.
 
 ## Library/Tools used
 - Vite

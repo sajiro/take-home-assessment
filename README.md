@@ -8,14 +8,14 @@ To start the app: after going into your projects directory run the following com
 In the login screen, i entered i prepopulate the login and password with valid user data to be able to access the database and save data and images for testing.
 
 ## Library/Tools used
--Vite
--React
--React query
--Shadcn (Radix UI, Tailwind CSS)
+- Vite
+- React
+- React query
+- Shadcn (Radix UI, Tailwind CSS)
 
 ## Unit test
--Vitest
--react testing library
+- Vitest
+- React testing library
 
 ## Backend used
 Appwrite - https://appwrite.io/

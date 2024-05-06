@@ -27,7 +27,7 @@ Vercel
 
 ## Known Issue 
 There seems to be some issue on the vercel server when i deploy it. Some conflict on appwrite server maybe and sometimes the session was not save/unsaved. 
-if you encounter such issue upon login, just refresh the page to redirect to main screen. 
+if you encounter such issue upon login, just refresh the page to redirect to main screen. This is only happening in live not local.
 
 ## Needs Improvement
 

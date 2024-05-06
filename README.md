@@ -1,6 +1,7 @@
 # Take Home assesment
 
-Demo: https://take-home-assessment-theta.vercel.app/
+### Demo: https://take-home-assessment-theta.vercel.app/
+
 To start the app: after going into your projects directory run the following commands in your terminal
 
 - npm install

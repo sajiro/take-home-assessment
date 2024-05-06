@@ -1,5 +1,6 @@
 # Take Home assesment
 
+Demo: https://take-home-assessment-theta.vercel.app/
 To start the app: after going into your projects directory run the following commands in your terminal
 
 - npm install
@@ -22,6 +23,10 @@ Appwrite - https://appwrite.io/
 
 ## Hosting
 Hostinger
+
+## Known Issue 
+There seems to be some issue on the vercel server when i deploy it. Some conflict on appwrite server maybe and sometimes the session was not save/unsaved. 
+if you encounter such issue upon login, just refresh the page to redirect to main screen. 
 
 ## Needs Improvement
 
